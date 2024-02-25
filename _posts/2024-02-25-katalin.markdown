@@ -1,6 +1,6 @@
 ---
 layout: post
-title: العلم والفن ...
+title: بودكاست غراوند تروث (حلقة كاتالين كاريكو)
 date: 2024-02-25
 description: ground-truth-podcast. # Add post description (optional)
 img: cab46829-e8d0-4659-a25a-7f5198ab065d_667x1000.jpg # Add image post (optional)
