@@ -3,7 +3,7 @@ layout: post
 title: العلم والفن ...
 date: 2023-02-12
 description: ground-truth-podcast. # Add post description (optional)
-img: molecular-science-and-art-with-professor-david-goodsell-368415-960x540.jpg # Add image post (optional)
+img: cab46829-e8d0-4659-a25a-7f5198ab065d_667x1000.jpg # Add image post (optional)
 tags: [podcast, mRNA, nobel, katalin kariko, eric topol] # add tag
 ---
 
